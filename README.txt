@@ -73,3 +73,7 @@ Library now has two versions, one for regular hardware Serial, one for use with 
 making any Arduino pin capable of transfering data back and forth easily. 
 
 See the examples to find out how to use the library. 
+
+*******************************************************************
+
+Note: Forked from https://github.com/madsci1016/Arduino-EasyTransfer and customized for the SCK 1.5
